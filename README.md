@@ -14,6 +14,13 @@ Antes de comenzar, asegúrate de tener instalado lo siguiente:
 ---
 
 ## ⚙️ Instalación del Proyecto
+Si desean crear un proyecto de 0 y no usar este de base. Deben instalar estos paquetes para navegar entre ventanas ya que esto no esta instalado por defecto
+- npm install @react-navigation/native
+- npm install react-native-screens react-native-safe-area-context
+- npm install @react-navigation/stack
+- npm install @react-navigation/drawer
+- npm install @react-navigation/bottom-tabs
+
 ## 📚 Taller Parte 1: Navegación en Stack
 
 En esta parte del taller, vamos a practicar los conceptos clave de la navegación en stack. A continuación, se presentan los puntos para trabajar:
